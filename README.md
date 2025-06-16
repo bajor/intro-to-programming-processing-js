@@ -1,3 +1,16 @@
+## Homework
+
+16 June 25:
+
+- Install on local computer tools for programming:
+    - [ ] Visual Studio Code
+    - [ ] Local web server - node.js - ask chat gpt for help
+    - [ ] Create account on github.com
+    - [ ] Clone this repo - again ask gpt for help
+    - [ ] Run server for example with `npx http-server`
+    - [ ] Open browser on `127.0.0.1:8080` - check if you see our app
+---
+
 ## Spin up the Codespace (browser VS Code)
 
 On the repo page, hit Code ▾ → Codespaces → “Create codespace on main”.
@@ -8,3 +21,4 @@ From the VS Code web terminal:
 npx live-server public --port=5500 --no-browser
 ```
 
+---

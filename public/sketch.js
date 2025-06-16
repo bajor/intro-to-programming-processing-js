@@ -11,4 +11,5 @@ function mouseMoved() {
     fill(random(255), random(255), random(255));
     noStroke();
     ellipse(mouseX, mouseY, 20, 20);
+    ellipse(mouseX, mouseY, 20, 20);
 }

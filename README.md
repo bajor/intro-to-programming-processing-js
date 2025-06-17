@@ -22,3 +22,16 @@ npx live-server public --port=5500 --no-browser
 ```
 
 ---
+
+## Or un it on your local computer
+
+In terminal go to directory of lesson you want to run. For example:
+```
+cd lesson_1
+```
+
+
+Run server for example with:
+
+`npx http-server`
+

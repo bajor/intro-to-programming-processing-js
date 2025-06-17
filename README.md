@@ -1,37 +1,35 @@
-## Homework
+## Where do we learn from:
 
-16 June 25:
+https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 
-- Install on local computer tools for programming:
-    - [ ] Visual Studio Code
-    - [ ] Local web server - node.js - ask chat gpt for help
-    - [ ] Create account on github.com
-    - [ ] Clone this repo - again ask gpt for help
-    - [ ] Run server for example with `npx http-server`
-    - [ ] Open browser on `127.0.0.1:8080` - check if you see our app
+And we have ended at:
+<br>
+**havent started yet**
+
+## Homework:
+
+#### 16 June 25
+
+Create local setup on your computer:
+- [ ] Watch this video 
+
+https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2
+
+As you see we are going with slightly different setup, deep diving into more processional tools from day 1.
+- [ ] Install Visual Studio Code
+- [ ] Install local web server - node.js - ask chat gpt for help
+- [ ] Create account on github.com
+- [ ] Install git
+- [ ] Config git, auth with ssh key
+- [ ] Clone this repo - again ask gpt for help
+- [ ] Run server for with `npx live-server`
+- [ ] Open browser on `127.0.0.1:8080` - check if you see our app
+
+If you will struggle it's fine we will do it during next lesson.
+
 ---
 
-## Spin up the Codespace (browser VS Code)
+#### Notes:
 
-On the repo page, hit Code ▾ → Codespaces → “Create codespace on main”.
-Wait for the container to build (∼30–60 s with prebuilds, longer the first time).
-From the VS Code web terminal:
-
-```bash
-npx live-server public --port=5500 --no-browser
-```
-
----
-
-## Or un it on your local computer
-
-In terminal go to directory of lesson you want to run. For example:
-```
-cd lesson_1
-```
-
-
-Run server for example with:
-
-`npx http-server`
+[NOTES.md](NOTES.md)
 

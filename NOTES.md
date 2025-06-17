@@ -1,3 +1,27 @@
+## Spin up the Codespace (browser VS Code)
+
+This will be available for you only when I will start it. So we will only use it during our lessons. For the remaining time you need to have local setup and work locally.
+
+On the repo page, hit Code ▾ → Codespaces → “Create codespace on main”.
+Wait for the container to build (∼30–60 s with prebuilds, longer the first time).
+From the VS Code web terminal:
+
+```bash
+npx live-server public --port=5500 --no-browser
+```
+
+---
+
+## Or run it on your local computer
+
+Run server with hot reloading (if you change sth in code it will be reloaded):
+
+`npx http-server`
+
+Ideally have 2 terminals open (+ in vscode). One for server, another for git and others.
+
+---
+
 # Basic Bash Commands
 
 - `ls` — List files and directories  
@@ -16,6 +40,10 @@
 
 # Basic Git Commands
 
+
+0. `git clone git@github.com:bajor/intro-to-programming-processing-js.git`
+   Clone this very repository to your computer. Before ask GPT how to install git, auth with ssh.
+
 1. `git init`  
    Initialize a new Git repository in the current directory.
 
@@ -30,3 +58,6 @@
 
 5. `git log`  
    Show the commit history.
+
+---
+

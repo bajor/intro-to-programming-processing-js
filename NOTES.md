@@ -61,3 +61,11 @@ Ideally have 2 terminals open (+ in vscode). One for server, another for git and
 
 ---
 
+# Create new p5 project
+
+In VsCode do control + P and then write:
+
+`> Create p5.js project`
+
+code autocompletion will work.
+

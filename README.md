@@ -34,3 +34,9 @@ If you will struggle it's fine we will do it during next lesson.
 
 [NOTES.md](NOTES.md)
 
+---
+
+## TODO Maciek:
+
+- Discord - have live screenshare and chat
+- Figure out how to use github codespaces for pair programming

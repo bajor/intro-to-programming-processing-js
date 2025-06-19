@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=yPWkPOfnGsw&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOF
 As you see we are going with slightly different setup, deep diving into more processional tools from day 1.
 - [ ] Install Visual Studio Code
 - [ ] Install p5.vscode extension in Visual Studio Code
+- [ ] Install Live Share extension in Visual Studio Code
 - [ ] Install local web server - node.js - ask chat gpt for help
 - [ ] Create account on github.com
 - [ ] Install git

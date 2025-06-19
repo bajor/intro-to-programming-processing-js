@@ -9,6 +9,13 @@
 - `createCanvas(400, 400)`
 - Origin at (0,0) — top-left
 - Show example: draw a small red dot at (100, 100)
+- See difference between having background() in draw() and not.
+```js
+function draw() {
+    // background();
+    line(20,10, mouseX, mouseY);
+}
+```
 
 **Exercise:**  
 Draw three dots at known coordinates. Ask: which is higher/lower? More left/right?

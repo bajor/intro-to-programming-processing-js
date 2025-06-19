@@ -8,7 +8,7 @@ And we have ended at:
 
 ## Homework:
 
-#### 16 June 25
+#### 16 June 25'
 
 Create local setup on your computer:
 - [ ] Watch this video 
@@ -28,6 +28,12 @@ As you see we are going with slightly different setup, deep diving into more pro
 - [ ] Open browser on `127.0.0.1:8080` - check if you see our app
 
 If you will struggle it's fine we will do it during next lesson.
+
+#### 24 June 25'
+
+1. Finishing local setup.
+2. Trying up live share on codespaces.
+3. Drawing shapes - https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
 
 ---
 

@@ -20,6 +20,18 @@ function draw() {
 **Exercise:**  
 Draw three dots at known coordinates. Ask: which is higher/lower? More left/right?
 
+## 2.5. How to See Errors
+- JavaScript errors won’t appear in VSCode—check the browser
+- Open the browser's **Developer Tools**:
+  - Press `F12` or right-click → Inspect → Console tab
+- The **Console** tab shows red error messages when your code has problems
+- Errors include the file name and line number; click them to jump to the problem
+- Common issues: typos (e.g. `elipse`), using undefined variables, missing semicolons
+
+**Exercise:**
+Introduce a typo like `elipse()` instead of `ellipse()` and let students find it using the Console
+
+
 ## 3. Basic Shapes
 - `line(x1, y1, x2, y2)`
 - `rect(x, y, w, h)`

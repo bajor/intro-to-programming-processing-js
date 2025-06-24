@@ -33,11 +33,22 @@ If you will struggle it's fine we will do it during next lesson.
 
 #### 2 - 24 June 25'
 
-1. Finishing local setup.
-2. Trying up live share on codespaces.
-3. Drawing shapes - https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
+DONE 1. Finishing local setup.
+DONE 2. Trying up live share on codespaces.
+3. Drawing shapes
 
 **Homework (Choose One)**
+
+- [ ] Learn basic shortcuts in mac to change desktops, move sth to another desktop etc - just how to do it with touchpad.
+
+In terminal:
+- `cd lesson_2`
+- `npx live-server`
+- Open safari at: `http://127.0.0.1:8080`
+- Now you are ready to develop. Edit just file `lesson_2.js` and see live changes in your browser. 
+- Follow along this tutorial, experiment, try to copy techer
+https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4
+- Then move to the main homework
 
 Pick one drawing task below using p5.js. Apply:
 - At least 3 types of shapes (`rect`, `ellipse`, `line`)

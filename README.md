@@ -41,10 +41,16 @@ DONE 2. Trying up live share on codespaces.
 
 - [ ] Learn basic shortcuts in mac to change desktops, move sth to another desktop etc - just how to do it with touchpad.
 
-In terminal:
+Open VsCode
+- likely you are at home (cd ~) directory
+- cd into our repo, so `cd repos/i` and press Tab, then enter
+- now `code .` - it will open VsCode at direcotry of this repo
+- run `git pull` to pull latest changes
+
+Continue in terminal:
 - `cd lesson_2`
 - `npx live-server`
-- Open safari at: `http://127.0.0.1:8080`
+- Now open safari at: `http://127.0.0.1:8080`
 - Now you are ready to develop. Edit just file `lesson_2.js` and see live changes in your browser. 
 - Follow along this tutorial, experiment, try to copy techer
 https://www.youtube.com/watch?v=c3TeLi6Ns1E&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4

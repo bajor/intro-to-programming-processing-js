@@ -37,7 +37,7 @@ DONE 1. Finishing local setup.
 DONE 2. Trying up live share on codespaces.
 3. Drawing shapes
 
-**Homework (Choose One)**
+**Homework**
 
 - [ ] Learn basic shortcuts in mac to change desktops, move sth to another desktop etc - just how to do it with touchpad.
 
@@ -61,6 +61,8 @@ Pick one drawing task below using p5.js. Apply:
 - At least one `fill()` and one `stroke()`
 - Attention to draw order
 
+### Choose one option and draw:
+
 ### 🏠 Option 1: Draw a house
 Use rectangles, lines, and circles to make a simple house scene.
 
@@ -74,9 +76,11 @@ Use `line()` and `ellipse()` to create a simple person.
 Include at least one tree, sun, and other elements of your choice.
 
 ### ✅ Submission Checklist:
-- Your sketch runs without errors
-- Code is organized and commented (if possible)
-- You used color (`fill()`/`stroke()`)
+- [ ] Your sketch runs without errors
+- [ ] Code is organized and commented (if possible)
+- [ ] You used color (`fill()`/`stroke()`)
+- [ ] Commit your code - `git commit -m "your message"`, push to github - `git push`
+
 
 ---
 
@@ -85,8 +89,3 @@ Include at least one tree, sun, and other elements of your choice.
 [NOTES.md](NOTES.md)
 
 ---
-
-## TODO Maciek:
-
-- Discord - have live screenshare and chat
-- Figure out how to use github codespaces for pair programming

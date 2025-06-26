@@ -2,9 +2,9 @@
 
 https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
 
-And we have ended at:
-<br>
-**havent started yet**
+## We have ended at: 
+
+**1.1**
 
 # Lessons
 
@@ -30,6 +30,8 @@ As you see we are going with slightly different setup, deep diving into more pro
 - [ ] Open browser on `127.0.0.1:8080` - check if you see our app
 
 If you will struggle it's fine we will do it during next lesson.
+
+---
 
 #### 2 - 24 June 25'
 

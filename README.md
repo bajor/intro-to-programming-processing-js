@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOF
 
 # Lessons
 
-#### 1 - 16 June 25'
+#### LESSON 1 - 16 June 25'
 
 Create local setup on your computer:
 - [ ] Watch this video 
@@ -33,7 +33,7 @@ If you will struggle it's fine we will do it during next lesson.
 
 ---
 
-#### 2 - 24 June 25'
+#### LESSON 2 - 24 June 25'
 
 DONE 1. Finishing local setup.
 DONE 2. Trying up live share on codespaces.
@@ -82,6 +82,34 @@ Include at least one tree, sun, and other elements of your choice.
 - [ ] Code is organized and commented (if possible)
 - [ ] You used color (`fill()`/`stroke()`)
 - [ ] Commit your code - `git commit -m "your message"`, push to github - `git push`
+
+
+#### LESSON 3 - 24 June 25'
+
+- Try this for picking different color with RGB, change background to picked value:
+https://rgbcolorpicker.com
+
+- Variables - containers that store data values
+- They can hold numbers, text, colors, or any other information  
+- Your program uses them to remember and reuse values
+- Scope determines where variables can be accessed in your code
+- Basic JS types: numbers, strings, booleans, arrays, objects
+
+- The `draw()` function is the main animation loop in p5.js
+- It runs continuously in the background, updating your sketch frame by frame
+- Each time `draw()` runs, it's like taking a new photo of your scene
+- If you change values inside `draw()`, they update every frame
+- Example: if you add `x = x + 10` in draw(), the object moves 10 pixels right each frame
+- This creates smooth animation as values change over time
+- The `setup()` function runs only once at the start, `draw()` runs forever
+- Think of `draw()` as the heartbeat of your interactive sketch
+
+Homework:
+
+- [ ] Watch these two videos and try these things by yourself:
+https://www.youtube.com/watch?v=7A5tKW9HGoM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8
+https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9
+- [ ] Watch these two videos and try these things by yourself:
 
 
 ---

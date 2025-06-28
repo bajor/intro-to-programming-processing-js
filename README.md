@@ -90,6 +90,8 @@ Include at least one tree, sun, and other elements of your choice.
 - Try this for picking different color with RGB, change background to picked value:
 https://rgbcolorpicker.com
 
+- Commenting out and comments in code
+
 - Variables - containers that store data values
 - They can hold numbers, text, colors, or any other information  
 - Your program uses them to remember and reuse values
@@ -115,9 +117,9 @@ https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOF
 
 All tasks relate directly to the two Coding Train videos on variables in p5.js:
 
-- [ ] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor. <br>• Add a line that changes the circle’s fill colour when the mouse is pressed. <br>• Comment at least two lines to explain what each variable does. |
-- [ ] **Make-Your-Own Variable Animation** – Using ideas from video #9, create a variable (e.g. `xPos`) that starts at 0 and increases every frame inside `draw()`. Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left. |
-- [ ] **Optional Stretch** – Replace the single square with an **array** of three squares, each with its own `xPos` and speed. Make them move independently. |
+- [ ] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor.
+- [ ] **Make-Your-Own Variable Animation** – Using ideas from video #9, create a variable (e.g. `xPos`) that starts at 0 and increases every frame inside `draw()`. 
+- [ ] Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left. |
 
 ---
 

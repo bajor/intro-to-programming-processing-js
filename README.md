@@ -85,7 +85,7 @@ Include at least one tree, sun, and other elements of your choice.
 
 ---
 
-#### LESSON 3 - 24 June 25'
+#### LESSON 3 - variables, if statement
 
 - Try this for picking different color with RGB, change background to picked value:
 https://rgbcolorpicker.com
@@ -112,14 +112,20 @@ https://rgbcolorpicker.com
 - [ ] Watch these two videos and try these things by yourself:
 https://www.youtube.com/watch?v=7A5tKW9HGoM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8
 https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9
-- [ ] Watch these two videos and try these things by yourself:
-
 
 All tasks relate directly to the two Coding Train videos on variables in p5.js:
 
 - [ ] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor.
 - [ ] **Make-Your-Own Variable Animation** – Using ideas from video #9, create a variable (e.g. `xPos`) that starts at 0 and increases every frame inside `draw()`. 
 - [ ] Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left. |
+
+---
+
+#### LESSON 3 - functions
+
+- Analyze homework. Show how I have done something similar, talk about functions.
+
+
 
 ---
 

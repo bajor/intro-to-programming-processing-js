@@ -35,9 +35,9 @@ If you will struggle it's fine we will do it during next lesson.
 
 #### LESSON 2 - 24 June 25'
 
-DONE 1. Finishing local setup.
-DONE 2. Trying up live share on codespaces.
-3. Drawing shapes
+- [x] Finishing local setup.
+- [x] Trying up live share on codespaces.
+- [ ] Drawing shapes
 
 **Homework**
 
@@ -83,6 +83,7 @@ Include at least one tree, sun, and other elements of your choice.
 - [ ] You used color (`fill()`/`stroke()`)
 - [ ] Commit your code - `git commit -m "your message"`, push to github - `git push`
 
+---
 
 #### LESSON 3 - 24 June 25'
 
@@ -104,13 +105,19 @@ https://rgbcolorpicker.com
 - The `setup()` function runs only once at the start, `draw()` runs forever
 - Think of `draw()` as the heartbeat of your interactive sketch
 
-Homework:
+**Homework:**
 
 - [ ] Watch these two videos and try these things by yourself:
 https://www.youtube.com/watch?v=7A5tKW9HGoM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8
 https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9
 - [ ] Watch these two videos and try these things by yourself:
 
+
+All tasks relate directly to the two Coding Train videos on variables in p5.js:
+
+- [ ] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor. <br>• Add a line that changes the circle’s fill colour when the mouse is pressed. <br>• Comment at least two lines to explain what each variable does. |
+- [ ] **Make-Your-Own Variable Animation** – Using ideas from video #9, create a variable (e.g. `xPos`) that starts at 0 and increases every frame inside `draw()`. Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left. |
+- [ ] **Optional Stretch** – Replace the single square with an **array** of three squares, each with its own `xPos` and speed. Make them move independently. |
 
 ---
 

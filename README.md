@@ -21,13 +21,13 @@ As you see we are going with slightly different setup, deep diving into more pro
 - [x] Install Visual Studio Code
 - [x] Install p5.vscode extension in Visual Studio Code
 - [x] Install Live Share extension in Visual Studio Code
-- [ ] Install local web server - node.js - ask chat gpt for help
+- [x] Install local web server - node.js - ask chat gpt for help
 - [x] Create account on github.com
 - [x] Install git
 - [x] Config git, auth with ssh key
 - [x] Clone this repo - again ask gpt for help
-- [ ] Run server for with `npx live-server`
-- [ ] Open browser on `127.0.0.1:8080` - check if you see our app
+- [x] Run server for with `npx live-server`
+- [x] Open browser on `127.0.0.1:8080` - check if you see our app
 
 If you will struggle it's fine we will do it during next lesson.
 
@@ -37,7 +37,7 @@ If you will struggle it's fine we will do it during next lesson.
 
 - [x] Finishing local setup.
 - [x] Trying up live share on codespaces.
-- [ ] Drawing shapes
+- [x] Drawing shapes
 
 **Homework**
 
@@ -78,7 +78,7 @@ Use `line()` and `ellipse()` to create a simple person.
 Include at least one tree, sun, and other elements of your choice.
 
 ### ✅ Submission Checklist:
-- [ ] Your sketch runs without errors
+- [x] Your sketch runs without errors
 - [ ] Code is organized and commented (if possible)
 - [ ] You used color (`fill()`/`stroke()`)
 - [ ] Commit your code - `git commit -m "your message"`, push to github - `git push`

@@ -109,6 +109,7 @@ https://rgbcolorpicker.com
 
 **Homework:**
 
+- [ ] Read my review of your pull request on github and adjust code. After that - please respond to my coments that you have done that.
 - [ ] Watch these two videos and try these things by yourself:
 https://www.youtube.com/watch?v=7A5tKW9HGoM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8
 https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9

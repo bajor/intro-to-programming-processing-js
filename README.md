@@ -79,33 +79,31 @@ Include at least one tree, sun, and other elements of your choice.
 
 ### ✅ Submission Checklist:
 - [x] Your sketch runs without errors
-- [ ] Code is organized and commented (if possible)
-- [ ] You used color (`fill()`/`stroke()`)
-- [ ] Commit your code - `git commit -m "your message"`, push to github - `git push`
+- [x] You used color (`fill()`/`stroke()`)
+- [x] Commit your code - `git commit -m "your message"`, push to github - `git push`
 
 ---
 
 #### LESSON 3 - variables, if statement
 
-- Try this for picking different color with RGB, change background to picked value:
+- [x] Try this for picking different color with RGB, change background to picked value:
 https://rgbcolorpicker.com
 
-- Commenting out and comments in code
+- [x] Commenting out and comments in code
 
 - Variables - containers that store data values
 - They can hold numbers, text, colors, or any other information  
-- Your program uses them to remember and reuse values
-- Scope determines where variables can be accessed in your code
-- Basic JS types: numbers, strings, booleans, arrays, objects
+- [x] Your program uses them to remember and reuse values
+- [x] Scope determines where variables can be accessed in your code
+- [x] Basic JS types: numbers, strings, booleans, arrays, objects
 
-- The `draw()` function is the main animation loop in p5.js
-- It runs continuously in the background, updating your sketch frame by frame
-- Each time `draw()` runs, it's like taking a new photo of your scene
-- If you change values inside `draw()`, they update every frame
-- Example: if you add `x = x + 10` in draw(), the object moves 10 pixels right each frame
-- This creates smooth animation as values change over time
-- The `setup()` function runs only once at the start, `draw()` runs forever
-- Think of `draw()` as the heartbeat of your interactive sketch
+- [x] The `draw()` function is the main animation loop in p5.js
+- [x] It runs continuously in the background, updating your sketch frame by frame
+- [x] Each time `draw()` runs, it's like taking a new photo of your scene
+- [x] If you change values inside `draw()`, they update every frame
+- [x] Example: if you add `x = x + 10` in draw(), the object moves 10 pixels right each frame
+- [x] This creates smooth animation as values change over time
+- [x] The `setup()` function runs only once at the start, `draw()` runs forever
 
 **Homework:**
 

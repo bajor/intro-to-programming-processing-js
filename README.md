@@ -132,6 +132,7 @@ Exercises during lesson:
 - Use `||` to trigger a change if either X or Y is in a region
 
 **Homework**:
+- [ ] Merge PR
 - [ ] Watch these videos:
 https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14
 https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16
@@ -140,6 +141,7 @@ https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOF
   - [ ]Changes color when clicked
   - [ ]Remains in that color even if the mouse moves away
   - [ ]Toggles color each time it's clicked (on/off behavior)
+  - [ ]When done create PR
 Hint: - use `function mousePressed()`
 
 ---

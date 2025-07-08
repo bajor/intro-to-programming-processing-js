@@ -84,7 +84,7 @@ Include at least one tree, sun, and other elements of your choice.
 
 ---
 
-#### LESSON 3 - variables, if statement
+#### LESSON 3 - variables
 
 - [x] Try this for picking different color with RGB, change background to picked value:
 https://rgbcolorpicker.com
@@ -120,11 +120,31 @@ All tasks relate directly to the two Coding Train videos on variables in p5.js:
 
 ---
 
-#### LESSON 3 - functions
+#### LESSON 4 - if statements
 
-- Analyze homework. Show how I have done something similar, talk about functions.
+- [ ] Analyze homework. Show how I have done something similar, talk about functions.
 
+Exercises during lesson:
+- Draw a circle that changes color when mouseX < width / 2
+- Make the circle bigger when mouseY > height / 2
+- Add `else` and `else if` to divide screen into 3 horizontal zones with different background colors
+- Use `&&` to trigger a change only when mouseX and mouseY are both in a region
+- Use `||` to trigger a change if either X or Y is in a region
 
+**Homework**:
+- [ ] Watch these videos:
+https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14
+https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16
+
+- [ ]Create a rectangular "button" that:
+  - [ ]Changes color when clicked
+  - [ ]Remains in that color even if the mouse moves away
+  - [ ]Toggles color each time it's clicked (on/off behavior)
+Hint: - use `function mousePressed()`
+
+---
+
+#### LESSON 5  - funcitons, random, map
 
 ---
 

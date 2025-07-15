@@ -152,6 +152,36 @@ Ex 2
 
 #### LESSON 5  - funcitons, random, map
 
+- Recap
+- Analyze homework, create PR
+- Show my solution and analyze it
+
+**Homework**
+- Create new branch from main, do following exercises in `lesson_4.js` and create PR.
+
+Ex 3  
+- [ ] Draw a circle that grows larger each time you click the mouse.  
+  - [ ] The circle should reset to its original size if it gets too big (e.g., diameter > 200).
+
+Ex 4  
+- [ ] Create a "traffic light" with three vertically stacked circles (red, yellow, green).  
+  - [ ] Each time you click, only one light is "on" (bright color), cycling through red → yellow → green → red...
+
+Ex 5  
+- [ ] Draw a rectangle that follows the mouse horizontally (x-axis), but stays fixed vertically (y-axis).  
+  - [ ] When the mouse is pressed, the rectangle should change color.
+
+Ex 6  
+- [ ] Make a bouncing ball:  
+  - [ ] Draw a circle that moves diagonally.  
+  - [ ] When it hits any edge of the canvas, it should "bounce" (reverse direction on that axis).
+
+- Try to do all exercises in one script if possible.
+- [ ] When done, create a PR.
+---
+
+#### LESSON 6  - funcitons, random, map
+
 ---
 
 #### Notes:

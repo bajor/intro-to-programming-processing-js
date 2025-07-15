@@ -148,6 +148,9 @@ Ex 2
 - Both exercises could be done in the same scirpt.
 - [ ] When done create PR.
 
+Ex 3
+- [x] Use if and if else to create sketch.
+
 ---
 
 #### LESSON 5

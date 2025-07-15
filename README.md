@@ -143,7 +143,7 @@ Ex 1
 Hint: - use `function mousePressed()`
 
 Ex 2
-- [ ] Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left.
+- [x] Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left.
 
 - Both exercises could be done in the same scirpt.
 - [ ] When done create PR.
@@ -160,11 +160,10 @@ Ex 3
 - Show my solution and analyze it
 
 **Homework**
-- Create new branch from main, do following exercises in `lesson_4.js` and create PR.
 
-Ex 3  
-- [ ] Draw a circle that grows larger each time you click the mouse.  
-  - [ ] The circle should reset to its original size if it gets too big (e.g., diameter > 200).
+- First correct Ex 1 from previous lesson in the PR.
+
+- Then `git checkout main`, `git checkout -b homework_5` so - create new branch from main, do following exercises in `lesson_5` directories.
 
 Ex 4  
 - [ ] Create a "traffic light" with three vertically stacked circles (red, yellow, green).  

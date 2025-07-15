@@ -107,15 +107,16 @@ https://rgbcolorpicker.com
 
 **Homework:**
 
-- [x] Read my review of your pull request on github and adjust code. After that - please respond to my coments that you have done that.
-- [x] Watch these two videos and try these things by yourself:
+- [ ] Read my review of your pull request on github and adjust code. After that - please respond to my coments that you have done that.
+- [ ] Watch these two videos and try these things by yourself:
 https://www.youtube.com/watch?v=7A5tKW9HGoM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8
 https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9
 
 All tasks relate directly to the two Coding Train videos on variables in p5.js:
 
-- [x] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor.
+- [ ] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor.
 - [ ] **Make-Your-Own Variable Animation** – Using ideas from video #9, create a variable (e.g. `xPos`) that starts at 0 and increases every frame inside `draw()`. 
+- [ ] Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left. |
 
 ---
 
@@ -131,6 +132,7 @@ Exercises during lesson:
 - Use `||` to trigger a change if either X or Y is in a region
 
 **Homework**:
+- [ ] Merge PR
 - [ ] Watch these videos:
 https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14
 https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16

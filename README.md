@@ -115,7 +115,6 @@ https://www.youtube.com/watch?v=dRhXIIFp-ys&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOF
 All tasks relate directly to the two Coding Train videos on variables in p5.js:
 
 - [x] **Follow-Along Sketch** – Re-watch video #8. Recreate the sketch that uses `mouseX` and `mouseY` to draw a circle that follows the cursor.
-- [ ] **Make-Your-Own Variable Animation** – Using ideas from video #9, create a variable (e.g. `xPos`) that starts at 0 and increases every frame inside `draw()`. 
 
 ---
 
@@ -131,17 +130,16 @@ Exercises during lesson:
 - Use `||` to trigger a change if either X or Y is in a region
 
 **Homework**:
+- [ ] Merge PR
 - [ ] Watch these videos:
 https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14
 https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16
 
 Ex 1
-- [ ] Draw a square that moves across the screen. <br>• When the square reaches the right edge, reset the variable so the square starts again on the left. |
-- [ ]Create a rectangular "button" that:
-  - [ ]Changes color when clicked
-  - [ ]Remains in that color even if the mouse moves away
-  - [ ]Toggles color each time it's clicked (on/off behavior)
-  - [ ]When done create PR
+- [ ] Create a rectangular "button" that:
+  - [ ] Changes color when clicked
+  - [ ] Remains in that color even if the mouse moves away
+  - [ ] Toggles color each time it's clicked (on/off behavior)
 Hint: - use `function mousePressed()`
 
 Ex 2

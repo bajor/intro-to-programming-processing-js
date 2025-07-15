@@ -1,4 +1,4 @@
-//zadanie nr 1 
+// //zadanie nr 1 
 
 
 
@@ -75,7 +75,8 @@ function draw() {
     
         rect(160,160,60,60,20,20,20)
         fill(29,216,200)} 
-        if (mouseIsPressed){
+        if (mouseIsPressed && (mouseX>160 && mouseX<200 && mouseY>160 && mouseY<200)){
+        
             background(0)
             fill(255,0,0);
         }
@@ -98,7 +99,7 @@ function draw() {
 
 // // line(50, y, x, y);
 // rect(x, y, 50,50,20,20,20,20);
-// fill(127,23,234)
-// }
+// fill(127,23,234)}
+
 
 

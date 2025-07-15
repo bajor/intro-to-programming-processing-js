@@ -150,7 +150,7 @@ Ex 2
 
 ---
 
-#### LESSON 5  - funcitons, random, map
+#### LESSON 5
 
 - Recap
 - Analyze homework, create PR

@@ -1,34 +1,41 @@
 function setup() {
     createCanvas (400,400);
 
-    backgroundSwitch = true;
+    stateCounter = 0;
 }
 
 function draw() {
+    // dzielenie z resztą, a.k.a. modulo
+    state = stateCounter % 3;
 
-    console.log(backgroundSwitch);
+    console.log(stateCounter);
+    console.log(state);
+    console.log("--------");
 
-    if (backgroundSwitch == true) {
-        background(255);
-    } else if (backgroundSwitch == false) {
-        background(0);
+    // green 
+    if (state == 0) {
+        fill(0, 255, 0); 
+        rect(180, 200, 40, 40, 20, 20, 20, 20);
+    }
+        
+    // yellow  
+    if (state == 1) {
+        fill(50); 
+        rect(170, 150, 60, 140);
     }
 
-    fill   (255, 251, 0,); 
-    rect   (170, 150, 60, 140 );
+    // red
+    if (state == 2) {
+        fill(255, 0, 0);
+        rect(180, 240, 40, 40, 20, 20, 20, 20);
+    }
 
-    fill   (245,13,0); // fill do czerwonego 
-    rect (180, 240, 40, 40, 20, 20, 20, 20);
-
-    fill   (120, 200, 20); 
-    rect (180, 200, 40, 40, 20, 20, 20, 20);
-
-    fill   (100, 100, 100,); // fill do kwadratu
-    rect (180, 160, 40, 40, 20, 20, 20, 20);
-
+    // yellow  
+    fill(255, 251, 0); 
+    rect(180, 160, 40, 40, 20, 20, 20, 20);
 
 }
 
 function mousePressed(){
-    backgroundSwitch = !backgroundSwitch;
+    stateCounter++;
 }

@@ -181,7 +181,21 @@ Ex 6
 
 ---
 
-#### LESSON 6  - funcitons, random, map
+#### LESSON 6  - functions
+
+Intro to functions
+
+**Homework**
+- [ ] Watch this video
+https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=20
+
+Ex 6  
+- [ ] Write a function called `drawStar(x, y, size)` that draws a star shape at the given position and size.  
+  - [ ] When you click the mouse, call `drawStar(mouseX, mouseY, 40)` so a star appears where you click.
+
+- [ ] Do this exercise in the created by me corresponding directory - `lesson_6_ex_1`
+- [ ] When done, create a PR.
+
 
 ---
 
